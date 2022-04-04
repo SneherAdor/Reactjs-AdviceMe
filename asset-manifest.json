@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reactjs-AdviceMe/static/css/main.d2a580a5.css",
+    "main.js": "/Reactjs-AdviceMe/static/js/main.0dcfbee1.js",
+    "index.html": "/Reactjs-AdviceMe/index.html",
+    "main.d2a580a5.css.map": "/Reactjs-AdviceMe/static/css/main.d2a580a5.css.map",
+    "main.0dcfbee1.js.map": "/Reactjs-AdviceMe/static/js/main.0dcfbee1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2a580a5.css",
+    "static/js/main.0dcfbee1.js"
+  ]
+}
